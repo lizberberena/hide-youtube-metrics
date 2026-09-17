@@ -1,7 +1,7 @@
 /*
 Extension by: 
-Liz Lorena Berberena
-https://lizlorena.com
+Liz Berberena
+https://lizberberena.com
 */
 
 var style = document.createElement('style');
