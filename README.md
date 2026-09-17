@@ -3,4 +3,4 @@
 
 It was fun while it lasted!
 
-<img src="https://lizlorena.com/img/itwasfun.png">
+<img src="https://lizberberena.com/img/itwasfun.png">
